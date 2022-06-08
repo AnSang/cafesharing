@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404205896026",
+    "project_id": "cafesharing-e6297",
+    "storage_bucket": "cafesharing-e6297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404205896026:android:8d1fafde63b6ad21aeb363",
+        "android_client_info": {
+          "package_name": "com.lim1t.cafesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404205896026-2ns3p9fpvtoenrcpjdaqki8k719mtd4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqCjfhHQQ9WF9wKmdhb1HnONv2W4HHEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404205896026-2ns3p9fpvtoenrcpjdaqki8k719mtd4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
